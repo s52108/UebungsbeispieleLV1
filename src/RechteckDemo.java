@@ -8,5 +8,6 @@ public class RechteckDemo {
         System.out.println("Umfang = " + umfang);
         System.out.println("Flaeche = " + flaeche);
 
+
     }
 }
